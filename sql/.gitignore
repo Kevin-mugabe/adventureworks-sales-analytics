@@ -1,0 +1,10 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+# Temp/exports
+*.zip
+*.tmp
+*.log
+*.bak
+data/raw/
+data/tmp/
